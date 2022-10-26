@@ -1,0 +1,69 @@
+x body {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(122, 122, 122);
+}
+
+#head-nav a, #other-nav a {
+  text-decoration: none;
+  color: black;
+}
+
+#head-nav {
+  background-color: rgb(255, 217, 0);
+  height: 30px;
+  text-align: right;
+  font-size: 20px;
+  height: 20px;
+}
+
+#other-nav {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+  background-color: rgb(255, 217, 0);
+  text-align: center;
+  border: solid rgb(189, 170, 0) 5px;
+  border-left: 0px;
+  border-right: 0px;
+  font-size: 30px;
+  height: 40px;
+}
+
+footer {
+  padding: 0 20px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 10px;
+  text-align: center;
+  background-color: rgb(255, 245, 109);
+}
+
+#title_carousel {
+  padding-top: 10px;
+  margin: auto;
+}
+
+#main-conteiner {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  min-height: 100vh;
+}
+
+#post-title {
+  margin: auto;
+  padding-top: 10px;
+}
+
+#multi-item-example {
+  margin-top: 10px;
+  background-color: black;
+}
+#adlist_table, #adlist_table tr , #adlist_table th, #adlist_table td{
+  border:1px solid;
+  text-align: center;
+}
+.adlist_desc{
+  width:100%;
+}
